@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadab-malik&label=Profile%20views&color=0e75b6&style=flat" alt="shadab-malik" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hissoul__" target="blank"><img src="https://img.shields.io/twitter/follow/hissoul__?logo=twitter&style=for-the-badge" alt="hissoul__" /></a> </p>
+
 
 - 💬 Ask me about **DSA, Reactjs, Nodejs**
 
